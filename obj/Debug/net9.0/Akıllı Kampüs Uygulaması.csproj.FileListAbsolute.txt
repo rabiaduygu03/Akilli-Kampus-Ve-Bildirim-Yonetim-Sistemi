@@ -1,0 +1,14 @@
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\bin\Debug\net9.0\Akıllı Kampüs Uygulaması.exe
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\bin\Debug\net9.0\Akıllı Kampüs Uygulaması.deps.json
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\bin\Debug\net9.0\Akıllı Kampüs Uygulaması.runtimeconfig.json
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\bin\Debug\net9.0\Akıllı Kampüs Uygulaması.dll
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\bin\Debug\net9.0\Akıllı Kampüs Uygulaması.pdb
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.AssemblyInfoInputs.cache
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.AssemblyInfo.cs
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.dll
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\refint\Akıllı Kampüs Uygulaması.dll
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.pdb
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.genruntimeconfig.cache
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\ref\Akıllı Kampüs Uygulaması.dll
