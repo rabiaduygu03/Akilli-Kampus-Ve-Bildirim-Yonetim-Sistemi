@@ -1,6 +1,6 @@
 using System;
 using SmartCampus.Domain.Factory;
-using SmartCampus.Domain.Entities;
+using SmartCampus.Domain.Egit add .ntities;
 
 namespace SmartCampus.Application.Factories
 {
