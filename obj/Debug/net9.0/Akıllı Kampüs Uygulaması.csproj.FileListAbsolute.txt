@@ -12,3 +12,4 @@ C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\refint\Akı
 C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.pdb
 C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.genruntimeconfig.cache
 C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\ref\Akıllı Kampüs Uygulaması.dll
+C:\Users\rabia\Desktop\Akıllı Kampüs Uygulaması\obj\Debug\net9.0\Akıllı Kampüs Uygulaması.sourcelink.json

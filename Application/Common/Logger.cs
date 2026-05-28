@@ -4,7 +4,7 @@ namespace SmartCampus.Application.Common
 {
     public class Logger
     {
-        private static Logger _instance;
+        private static Logger? _instance;
         private static readonly object _lockObject = new object();
 
         private Logger() { }
